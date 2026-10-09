@@ -1,0 +1,45 @@
+# Node & Frontend
+node_modules/
+dist/
+.vite/
+.vercel/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python & Backend
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+build/
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+*.egg
+
+# Database & Local Files
+clinical_trial.db
+test_clinical_trial.db
+*.sqlite3
+
+# Environment Variables & Secrets
+.env
+.env.local
+.env.*.local
+
+# Hyperledger Fabric Crypto Materials
+crypto-config/
+channel-artifacts/
+organizations/peerOrganizations/
+organizations/ordererOrganizations/

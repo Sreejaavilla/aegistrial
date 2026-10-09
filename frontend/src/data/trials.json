@@ -1,0 +1,168 @@
+[
+  {
+    "id": "TR-2026-001",
+    "title": "Phase III Trial of SGLT2i + GLP-1RA Dual Incretin Therapy in Type 2 Diabetes with Preserved Renal Function",
+    "phase": "Phase III",
+    "sponsor": "Metabolic Therapeutics Research Consortium",
+    "description": "Multi-center randomized study evaluating glycemic stability, cardio-renal outcomes, and weight trajectory in adult patients with established Type 2 Diabetes Mellitus with baseline HbA1c >= 7.5% and preserved renal capacity (eGFR >= 50 mL/min/1.73m\u00b2).",
+    "target_diagnosis": "Type 2 Diabetes Mellitus",
+    "target_icd10": "E11.9",
+    "age_min": 35,
+    "age_max": 75,
+    "required_consent_type": "GENERAL_RECRUITMENT",
+    "measurement_ranges": {
+      "hba1c_min": 7.5,
+      "hba1c_max": 10.5,
+      "egfr_min": 50.0,
+      "egfr_max": 120.0,
+      "systolic_bp_min": 110,
+      "systolic_bp_max": 160,
+      "bmi_min": 25.0,
+      "bmi_max": 42.0
+    },
+    "inclusion_criteria": [
+      "Diagnosed with Type 2 Diabetes Mellitus (ICD-10 E11)",
+      "Age between 35 and 75 years at time of pre-screening",
+      "Glycated Hemoglobin (HbA1c) between 7.5% and 10.5% inclusive",
+      "Preserved Renal Function: eGFR >= 50.0 mL/min/1.73m\u00b2",
+      "Active Signed General Research Consent"
+    ],
+    "exclusion_criteria": [
+      "Severe Renal Impairment (eGFR < 45.0 mL/min/1.73m\u00b2)",
+      "Severe Malignant Hypertension (Systolic BP > 175 mmHg)",
+      "Documented End-Stage Heart Failure",
+      "Known Hypersensitivity to SGLT2 inhibitors or GLP-1 receptor agonists"
+    ],
+    "target_enrollment": 150,
+    "status": "RECRUITING"
+  },
+  {
+    "id": "TR-2026-002",
+    "title": "Phase II Evaluation of Dual ARB-Neprilysin Inhibition in Resistant Essential Hypertension",
+    "phase": "Phase II",
+    "sponsor": "Cardiovascular Innovation Network",
+    "description": "Evaluating hemodynamic control and 24-hour ambulatory arterial pressure reduction in patients diagnosed with uncontrolled Essential Hypertension despite 2 or more antihypertensive medications.",
+    "target_diagnosis": "Essential (Primary) Hypertension",
+    "target_icd10": "I10",
+    "age_min": 40,
+    "age_max": 80,
+    "required_consent_type": "GENERAL_RECRUITMENT",
+    "measurement_ranges": {
+      "systolic_bp_min": 145,
+      "systolic_bp_max": 185,
+      "diastolic_bp_min": 85,
+      "diastolic_bp_max": 115,
+      "egfr_min": 45.0,
+      "egfr_max": 120.0,
+      "bmi_min": 22.0,
+      "bmi_max": 38.0
+    },
+    "inclusion_criteria": [
+      "Confirmed Essential Primary Hypertension (ICD-10 I10)",
+      "Age 40 to 80 years old",
+      "Elevated Systolic Blood Pressure: >= 145 mmHg and <= 185 mmHg",
+      "Serum Potassium <= 5.2 mEq/L and eGFR >= 45.0 mL/min/1.73m\u00b2"
+    ],
+    "exclusion_criteria": [
+      "Secondary hypertension due to renal artery stenosis or pheochromocytoma",
+      "Systolic BP > 190 mmHg requiring emergency intervention",
+      "Severe renal failure (eGFR < 30 mL/min/1.73m\u00b2)"
+    ],
+    "target_enrollment": 100,
+    "status": "RECRUITING"
+  },
+  {
+    "id": "TR-2026-003",
+    "title": "Phase Ib Targeted EGFR Tyrosine Kinase Inhibitor in Advanced Non-Small Cell Lung Cancer",
+    "phase": "Phase I",
+    "sponsor": "Oncology Precision Alliance",
+    "description": "Investigating pharmacokinetic tolerability and objective response rate of a novel third-generation selective EGFR TKI in adult NSCLC candidates.",
+    "target_diagnosis": "Non-Small Cell Lung Cancer",
+    "target_icd10": "C34.9",
+    "age_min": 25,
+    "age_max": 82,
+    "required_consent_type": "ONCOLOGY_ONLY",
+    "measurement_ranges": {
+      "egfr_min": 45.0,
+      "egfr_max": 120.0,
+      "platelets_min": 100,
+      "platelets_max": 500,
+      "creatinine_max": 2.0
+    },
+    "inclusion_criteria": [
+      "Histologically documented Non-Small Cell Lung Cancer (ICD-10 C34)",
+      "Adequate hematologic reserve (Platelet count >= 100 x10^9/L)",
+      "Adequate renal clearance (eGFR >= 45 mL/min/1.73m\u00b2)",
+      "Specialized Oncology Clinical Trial Consent"
+    ],
+    "exclusion_criteria": [
+      "Severe baseline thrombocytopenia (< 90 x10^9/L)",
+      "Uncontrolled central nervous system metastases",
+      "Active cardiac arrhythmia requiring acute therapy"
+    ],
+    "target_enrollment": 45,
+    "status": "RECRUITING"
+  },
+  {
+    "id": "TR-2026-004",
+    "title": "Phase III Monoclonal Interleukin-4/13 Blocker in Moderate-to-Severe Eosinophilic Asthma",
+    "phase": "Phase III",
+    "sponsor": "Pulmonary & Immunology Global Institute",
+    "description": "Double-blind, placebo-controlled trial assessing annualized severe asthma exacerbation rate and FEV1 improvements in symptomatic moderate-to-severe asthma patients.",
+    "target_diagnosis": "Moderate-to-Severe Asthma",
+    "target_icd10": "J45.9",
+    "age_min": 18,
+    "age_max": 70,
+    "required_consent_type": "GENERAL_RECRUITMENT",
+    "measurement_ranges": {
+      "bmi_min": 18.5,
+      "bmi_max": 36.0,
+      "systolic_bp_max": 150
+    },
+    "inclusion_criteria": [
+      "Physician-diagnosed Moderate-to-Severe Asthma for >= 12 months",
+      "Age 18 to 70 years",
+      "Currently receiving maintenance inhaled corticosteroids (ICS)",
+      "Documented history of at least one acute exacerbation in past year"
+    ],
+    "exclusion_criteria": [
+      "Concomitant diagnosis of active COPD or cystic fibrosis",
+      "Active systemic immunosuppressive therapy for other autoimmune disorders",
+      "Current cigarette smoking >= 10 pack-years"
+    ],
+    "target_enrollment": 220,
+    "status": "ACTIVE"
+  },
+  {
+    "id": "TR-2026-005",
+    "title": "Phase II SGLT2 Inhibition and Mineralocorticoid Receptor Antagonist in HFpEF",
+    "phase": "Phase II",
+    "sponsor": "National Heart & Lung Consortium",
+    "description": "Assessing 12-week changes in Kansas City Cardiomyopathy Questionnaire (KCCQ) clinical summary score and NT-proBNP in symptomatic Heart Failure patients with Preserved Ejection Fraction.",
+    "target_diagnosis": "Heart Failure with Reduced Ejection Fraction",
+    "target_icd10": "I50.2",
+    "age_min": 45,
+    "age_max": 85,
+    "required_consent_type": "CARDIOMETABOLIC_ONLY",
+    "measurement_ranges": {
+      "systolic_bp_min": 100,
+      "systolic_bp_max": 150,
+      "egfr_min": 35.0,
+      "egfr_max": 110.0,
+      "creatinine_max": 2.2
+    },
+    "inclusion_criteria": [
+      "Documented Heart Failure Diagnosis with baseline symptoms",
+      "Age 45 to 85 years",
+      "Stable medical management with beta-blockers and ACEi/ARB",
+      "eGFR >= 35 mL/min/1.73m\u00b2"
+    ],
+    "exclusion_criteria": [
+      "Severe hypotension (Systolic BP < 95 mmHg)",
+      "Hyperkalemia (Serum K+ > 5.4 mmol/L)",
+      "Severe end-stage renal disease on dialysis"
+    ],
+    "target_enrollment": 120,
+    "status": "RECRUITING"
+  }
+]
